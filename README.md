@@ -4,4 +4,4 @@
  some questions based on those algorithms and build up their skills.
  
  to Access the programs and algorithms stored in the repository kindly refer to the below given link:
- https://github.com/Sukhija-Aniket/DSA
+ <https://github.com/Sukhija-Aniket/DSA>
